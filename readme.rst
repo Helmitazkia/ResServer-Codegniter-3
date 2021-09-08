@@ -11,19 +11,20 @@ you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
 *******************
-Release Information
+Url Localhost
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+http://localhost/Restapi/api/Mahasiswa
 
 **************************
-Changelog and New Features
+Rest Server Codegniter - 3
 **************************
+Menggunakan :
+PUT : untuk Update Data
+POST : Nambah Data
+DELETE : Hapus Data
+GET : Menampilkan Data
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
 *******************
 Server Requirements
